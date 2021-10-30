@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <JUCERPROJECT id="hwavNo" name="SimpleEQ" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1">
+              addUsingNamespaceToJuceHeader="0" displaySplashScreen="1" jucerFormatVersion="1"
+              bundleIdentifier="com.lagdaemon.SimpleEQ" companyName="LagDaemon Software"
+              companyCopyright="(C) 2021 William W. Westlake, All Rights Reserved"
+              companyEmail="simpleeq@lagdaemon.com" cppLanguageStandard="17">
   <MAINGROUP id="WWPqga" name="SimpleEQ">
     <GROUP id="{752F08E9-A226-15DB-3D33-EA04F39AE45D}" name="Source">
       <FILE id="Fetvrb" name="PluginProcessor.cpp" compile="1" resource="0"
